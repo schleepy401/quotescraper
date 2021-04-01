@@ -1,5 +1,2 @@
 Flask
 BeautifulSoup4
-json
-unicodedata
-requests
