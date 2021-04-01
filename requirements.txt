@@ -1,0 +1,5 @@
+Flask
+BeautifulSoup
+json
+unicodedata
+requests
