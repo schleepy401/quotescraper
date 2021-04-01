@@ -1,1 +1,1 @@
-web: python3 app:scraper
+web: python3 app:scraper.py
