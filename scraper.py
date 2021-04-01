@@ -31,6 +31,6 @@ app.config["DEBUG"] = True
 
 @app.route('/', methods=['GET'])
 def home():
-    return str(database)
+    return jsonify(str(database))
 
 app.run()
