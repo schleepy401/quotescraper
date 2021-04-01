@@ -1,5 +1,5 @@
 Flask
-BeautifulSoup
+BeautifulSoup4
 json
 unicodedata
 requests
