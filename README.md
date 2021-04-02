@@ -2,7 +2,6 @@
 
 ## Table of Contents
 <!-- TABLE OF CONTENTS -->
-<details open="open">
   <ol>
     <li>
       <a href="#features">Features</a>
@@ -20,7 +19,6 @@
       <a href="#acknowledgments">Acknowledgments</a>
     </li>
   </ol>
-</details>
 
 
 ## Features
