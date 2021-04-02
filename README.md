@@ -9,7 +9,7 @@
 - **API is live at** [this link](https://w0lfw1tz.herokuapp.com)
 - The data is returned in JSON format. Feel free to use this in your apps or projects.
 
-# Using the API
+## Using the API
 - Just call the link [https://w0lfw1tz.herokuapp.com](https://w0lfw1tz.herokuapp.com). The data is returned in a JSON array format.
 - **Datapoints:**
   - Every element/index of the JSON array contains a JSON file of the following format:
