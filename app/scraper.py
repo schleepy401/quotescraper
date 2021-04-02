@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 import json
 import unicodedata
-import flask import Flask, jsonify
+from flask import Flask, jsonify
 
 app = Flask(__name__)
 
