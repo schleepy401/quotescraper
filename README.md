@@ -38,7 +38,7 @@
 - **Version 1.0:**
   - *Date of release:* 2nd April, 2021
   - First version of Quotes API.
-  - *Bugs with the current version:*
+  - <span style="color:red">*Bugs with the current version: *</span>
     - The data isn't updated since the source of data being scraped is static currently.
     - Some special characters (such as é etc.) are not supported due to being interconverted between Unicode UTF8 and ASCII for being supported even somewhat properly by the textIOwrapper class which converts the raw html strings into proper JSON.
 ## Contributors
