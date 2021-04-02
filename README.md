@@ -1,5 +1,28 @@
 # quotescraper: A basic web scraper API
 
+## Table of Contents
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <ol>
+    <li>
+      <a href="#features">Features</a>
+    </li>
+    <li>
+      <a href="#using-the-api">Using the API</a>
+    </li>
+    <li>
+      <a href="#changelog">Changelog</a>
+    </li>
+    <li>
+      <a href="#contributors">Contributors</a>
+    </li>
+    <li>
+      <a href="#acknowledgments">Acknowledgments</a>
+    </li>
+  </ol>
+</details>
+
+
 ## Features
 - **Language:** [Python 3.8.5](https://docs.python.org/3.8/)
 - **Technologies used:**
