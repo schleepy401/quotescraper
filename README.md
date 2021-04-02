@@ -10,11 +10,26 @@
 - The data is returned in JSON format. Feel free to use this in your apps or projects.
 
 ## Using the API
-- Just call the link [https://w0lfw1tz.herokuapp.com](https://w0lfw1tz.herokuapp.com). The data is returned in a JSON array format.
+- Just call the link [https://w0lfw1tz.herokuapp.com](https://w0lfw1tz.herokuapp.com). The data is returned in a JSON array format like this:
+```
+[
+  {
+      "author": <String>,
+      "quote": <String>
+  },
+  {
+      "author": <String>,
+      "quote": <String>
+  }, ...  
+]
+```
 - **Datapoints:**
   - Every element/index of the JSON array contains a JSON file of the following format:
   ```
-  {"author": <String>, "quote": <String>}
+    {
+      "author": <String>,
+      "quote": <String>
+    }
   ```
   - The ```author``` key returns the name of the author of the quote. The returned data is in string format.
   - The ```quote``` key returns the writing. The returned data is in string format.
