@@ -1,1 +1,1 @@
-web: python3 scraper.py
+web: gunicorn wsgi:app
